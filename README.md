@@ -1,2 +1,3 @@
-# temp_repo
-tenporary
+# hello-world
+
+Hi! I'm Junsu Kim
